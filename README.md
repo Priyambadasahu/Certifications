@@ -1,5 +1,5 @@
 # Certifications
-📜 Certifications Repository
+#📜 Certifications Repository
 
 This repository contains certifications and job simulation programs I have successfully completed, showcasing my foundational knowledge and hands-on exposure to real-world industry scenarios.
 
